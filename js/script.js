@@ -7,3 +7,4 @@ boton.addEventListener("click", function(event) {
     
     alert("¡Ola! Gracias por hacer clic ");
 });
+console.log("Proyecto fundamentos web listo");
